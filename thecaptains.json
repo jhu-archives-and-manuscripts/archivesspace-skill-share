@@ -1,0 +1,77 @@
+[
+    {"names": [{
+        "primary_name": "Kirk",
+        "rest_of_name": "James T.",
+        "dates": "2233-2371",
+        "sort_name": "Kirk, James T., 2233-2371",
+        "source": "viaf",
+        "rules": "rda",
+        "name_order": "inverted",
+        "jsonmodel_type": "name_person",
+        "authority_id": "http://viaf.org/viaf/315604523"
+    }]},
+    {"names": [{
+        "primary_name": "Picard",
+        "rest_of_name": "Jean-Luc",
+        "dates": "2305-",
+        "sort_name": "Picard, Jean-Luc, 2305-",
+        "source": "viaf",
+        "rules": "rda",
+        "name_order": "inverted",
+        "jsonmodel_type": "name_person",
+        "authority_id": " http://viaf.org/viaf/316557703"
+    }]},
+    {"names": [{
+        "lock_version": 0,
+        "primary_name": "Sulu",
+        "rest_of_name": "Hikaru",
+        "sort_name": "Sulu, Hikaru",
+        "source": "viaf",
+        "rules": "rda",
+        "name_order": "inverted",
+        "jsonmodel_type": "name_person",
+        "authority_id": " http://viaf.org/viaf/316557806"
+    }]},
+    {"names": [{
+        "primary_name": "Riker",
+        "rest_of_name": "William T.",
+        "dates": "2335-",
+        "sort_name": "Riker, William T., 2335-",
+        "source": "viaf",
+        "rules": "rda",
+        "name_order": "inverted",
+        "jsonmodel_type": "name_person",
+        "authority_id": "http://viaf.org/viaf/316557926"
+    }]},
+    {"names": [{
+        "primary_name": "Janeway",
+        "rest_of_name": "Kathryn",
+        "sort_name": "Janeway, Kathryn",
+        "source": "local",
+        "rules": "rda",
+        "name_order": "inverted",
+        "jsonmodel_type": "name_person",
+        "use_dates": []
+    }]},
+    {"names": [{
+        "primary_name": "Sisko",
+        "rest_of_name": "Benjamin",
+        "sort_name": "Sisko, Benjamin",
+        "source": "local",
+        "rules": "rda",
+        "name_order": "inverted",
+        "jsonmodel_type": "name_person",
+        "use_dates": []
+    }]},
+    {"names": [{
+        "primary_name": "Archer",
+        "rest_of_name": "Jonathon",
+        "dates": "2235-",
+        "sort_name": "Archer, Jonathon, 2235-",
+        "source": "viaf",
+        "rules": "rda",
+        "name_order": "inverted",
+        "jsonmodel_type": "name_person",
+        "authority_id": "http://viaf.org/viaf/313557926"
+    }]}
+]
