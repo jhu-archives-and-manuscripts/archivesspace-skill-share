@@ -14,8 +14,11 @@ You can try this easy script (which makes no changes to any data). This script w
 
 Note: The "page_size" is set to 3000, but ArchivesSpace's configuration defaults to 250 .
 To set this within the demo, go to Files (looks like a file drawer) > archivesspace > config and look for the lines that say 
+
 \#AppConfig[:default_page_size] = 10
+
 \#AppConfig[:max_page_size] = 250
+
 (Note that a # in this case comments these lines out, so you must remove the # to enable this configuration). 
 
 ####[postArchivalObjects.py](postArchivalObjects.py)
