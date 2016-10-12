@@ -3,7 +3,7 @@ Scripts used at Beyond the Basics ArchivesSpace Skill Share on Oct. 17
 
 ##Sample Files
 ####[thecaptains.json](thecaptains.json)
-A sample file of JSON data that can be used with the [postAgents.py](postAgents.py) script to create ArchiveSpace Agent records throught the ArchivesSpace API.
+A sample file of JSON data that can be used with the [postAgents.py](postAgents.py) script to create ArchiveSpace Agent records via the ArchivesSpace API.
 
 #Sample Scripts
 ####[postAgents.py](postAgents.py)
