@@ -7,7 +7,7 @@ A sample file of JSON data that can be used with the [postAgents.py](postAgents.
 
 #Sample Scripts
 ####[postAgents.py](postAgents.py)
-This script differs from the [postArchivalObjects.py](postArchivalObjects.py) script because it posts new records to ArchivesSpace rather than overwriting existing records based on their "uri."  This script requires a JSON file of agent data to be placed in the same directory as the script you will be running, in this case, the agent data is contained in "thecaptains.json."  This JSON file contains the minimum number of properties that are required to create an agent record through the API.  If you try POST to a JSON file that does that conform to ArchivesSpace's requirements, the API will provide an error message that details what required properties are missing.
+This script differs from the [postArchivalObjects.py](postArchivalObjects.py) script because it posts new records to ArchivesSpace rather than overwriting existing records based on their "uri."  This script requires a JSON file of agent data to be placed in the same directory as the script you will be running, in this case, the agent data is contained in "[thecaptains.json](thecaptains.json)."  This JSON file contains the minimum number of properties that are required to create an agent record through the API.  If you try POST to a JSON file that does that conform to ArchivesSpace's requirements, the API will provide an error message that details what required properties are missing.
 
 ####[getArchivalObjects.py](getArchivalObjects.py)
 You can try this easy script (which makes no changes to any data). This script will authenticate with the API and then download all of ArchiveSpace's archival objects to a JSON file called "archival_objects.json." 
